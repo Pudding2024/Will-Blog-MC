@@ -58,10 +58,10 @@ params:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
-  displayUpdatedDate: true
-  dateFormat: "2006年1月2日"
+  #displayUpdatedDate: true
+  #dateFormat: "2006年1月2日"
 
-  enableGitInfo: true
+  #enableGitInfo: true
 
 # i18n configuration
 defaultContentLanguage: zh-tw
